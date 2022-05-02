@@ -7,7 +7,7 @@ function fn() {
   var config = {
     env: env,
     myVarName: 'someValue',
-    appUrl: 'https://verifye.co.za/response.php'
+    appUrl: '<application url>'
   }
   if (env == 'dev') {
     // customize
