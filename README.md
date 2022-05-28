@@ -1,3 +1,5 @@
+# ⚠️ I have cloned this repo as an example of how NOT to use Karate
+
 ### Executing the test
 
 Clone the repository. From the root directory of the project execute the following command.
